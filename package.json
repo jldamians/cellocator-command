@@ -1,0 +1,22 @@
+{
+  "name": "cellocator-command",
+  "version": "1.0.0",
+  "description": "Cellocator command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cellocator",
+    "command"
+  ],
+  "author": "Jose Damian <jlds161089@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "convert-base": "^0.1.0",
+    "is-empty-object": "^1.1.1",
+    "lodash.merge": "^4.6.0",
+    "require-dir-all": "^0.4.10"
+  }
+}
