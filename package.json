@@ -17,6 +17,7 @@
     "convert-base": "^0.1.0",
     "is-empty-object": "^1.1.1",
     "lodash.merge": "^4.6.0",
+    "lodash.pick": "^4.4.0",
     "require-dir-all": "^0.4.10"
   }
 }
